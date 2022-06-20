@@ -9,5 +9,5 @@ Created as a team
 -James Haig
 -John Cunningham 
 
-A ticketing system for assigning tickets to technicians based on levels. Tickets have severity levels which can be changed. Tickets are able to resolved and 
+A CRM ticketing system for assigning tickets to technicians based on levels. Tickets have severity levels which can be changed. Tickets are able to resolved and 
 can be assigned to appropiate technicians. Created using Java and eclipse as the IDE
